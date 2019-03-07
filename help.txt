@@ -1,0 +1,5 @@
+https://github.com/iccfish/FSLib.App.SimpleUpdater
+
+https://www.fishlee.net/soft/simple_autoupdater/
+
+https://www.fishlee.net/soft/simple_autoupdater/usage.html

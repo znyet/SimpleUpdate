@@ -1,0 +1,18 @@
+******************* Hosts 编辑器 *********************
+基于.Net开发的Hosts文件编辑工具，支持导入、导出记录，
+支持从剪贴板中粘贴记录、复制记录到剪贴板。
+支持对Hosts记录加分组、注释。
+
+程序启动会默认加载本机Hosts文件，可以新建或打开其它记录
+文件。
+
+本工具为免费工具，谢绝用作商业场合或盈利用途。
+
+作者：木鱼（随风飘扬） fishcn@foxmail.com
+官网：http://www.u-tide.com/fish/
+反馈问题和建议：http://sobar.soso.com/JoyCoding 或发邮件
+给我。
+
+！注意！本程序运行需要 .Net Framework 2.0(最低)支持，如
+果出现初始化错误，请下载并安装.NetFramework2.0：
+http://download.microsoft.com/download/c/6/e/c6e88215-0178-4c6c-b5f3-158ff77b1f38/NetFx20SP2_x86.exe
